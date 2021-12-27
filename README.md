@@ -1,5 +1,5 @@
 # Weather-app
-A flask based weather dashboard with openweathermap.org API. 
+A flask based weather dashboard with openweathermap.org API. Currently the API implementation only supports US postal codes.
 
 
 ![Screenshot 2021-12-10 at 4 57 35 PM](https://user-images.githubusercontent.com/19812569/145606147-b12cb947-4b04-44da-9c11-5ea8db44045e.png)
